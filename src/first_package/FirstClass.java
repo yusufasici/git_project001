@@ -7,6 +7,8 @@ public class FirstClass {
 		System.out.println("Our first commit from local repo");
 		System.out.println("Our second commit local repo CHANGES HERE");
 		System.out.println("Our third commit from local repo");
+		
+		System.out.println("Now I am on my 'ziya' branch");
 	}
 
 }
